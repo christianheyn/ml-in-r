@@ -152,3 +152,7 @@ vignettes/*.pdf
 *.pdf
 *.png
 *.jpg
+*.afdesign
+
+!media/*.png
+!media/*.jpg
